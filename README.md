@@ -81,10 +81,10 @@ There are different types of lines:
 An example of a configuration file is shown below
 
     age = 29
-    name = John
+    name = John  # first name
     
     [weather]
-        temperature = 25.2
+        temperature = 25.2 ; in degree Celsius
         humidity = 23.5
     
     happy = .true.
